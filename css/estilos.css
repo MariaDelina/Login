@@ -1,0 +1,21 @@
+*{
+    color: white;
+}
+.bg {
+    position: relative;
+    background: url('../assets/ciudadvioleta.jpg') no-repeat;
+    width: 100%;
+    height: 100vh;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.form-container {
+    border: 0px solid #fff;
+    padding: 50px 60px;
+    margin-top: 20vh;
+    -webkit-box-shadow: 10px 10px 37px 28px rgba(5,4,1,1);
+    -moz-box-shadow: 10px 10px 37px 28px rgba(5,4,1,1);
+    box-shadow: 10px 10px 37px 28px rgba(5,4,1,1);
+}
